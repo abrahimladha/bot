@@ -1,0 +1,14 @@
+#anything that starts with a # the program will ignore
+#rules look like this
+#1!2N
+#this reads as x1 NOT x2 -> NORTH
+#or for And, leave a space (eg "1 2N")
+#the final line is the default state and should only be the direction
+#411
+#4x2
+#332 this is what the areas look like.
+1!2E
+2!3S
+3!4W
+4!1N
+N
